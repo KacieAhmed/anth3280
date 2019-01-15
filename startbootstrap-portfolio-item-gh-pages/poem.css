@@ -1,0 +1,32 @@
+/*!
+ * Start Bootstrap - Portfolio Item (https://startbootstrap.com/template-overviews/portfolio-item)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-portfolio-item/blob/master/LICENSE)
+ */
+
+.actualpoem {
+  padding-top: 54px;
+  color: black;
+  text-align: center;
+  background-color: rgb(152, 251, 152);
+  border:1px solid #021a40;
+  font-family: "Arial Black", Arial Black, sans-serif;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+
+p{
+  font-family: "Times New Roman", Times, sans-serif;
+}
+
+
+
+
+
+/* img {
+  border:1px solid #021a40;
+  border-radius: 8px;
+} */
