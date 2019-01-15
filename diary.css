@@ -1,0 +1,28 @@
+/* !
+ * Start Bootstrap - Portfolio Item (https://startbootstrap.com/template-overviews/portfolio-item)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-portfolio-item/blob/master/LICENSE)
+ */
+
+
+.video{
+  /* text-align: center; */
+}
+h2{
+padding-top: 54px;
+/* text-align: center; */
+}
+
+
+p{
+  font-family: "Times New Roman", Times, sans-serif;
+}
+
+
+
+
+
+ img {
+  border:1px solid #021a40;
+  border-radius: 8px;
+}
